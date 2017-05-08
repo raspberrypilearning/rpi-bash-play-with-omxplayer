@@ -1,1 +1,2 @@
-# rpi-play-with-omxplayer
+# rpi-play-with-omxplayer 
+Some readme content
