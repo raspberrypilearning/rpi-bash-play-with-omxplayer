@@ -1,10 +1,12 @@
 title: Playing a video with omxplayer
 hero_image: images/banner.png
-subtitle: rpi-play-with-omxplayer subtitle
-description: rpi-play-with-omxplayer description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: Playing a video on the Raspberry Pi with OMX Player
+original_url:
 theme: cc-prototype
-published: false
+duration: 1
+listed: false
+copyedit: false
+interests: ""
+technologies: "raspberry pi"
 steps:
-  - title: Playing video
-    duration: 60
+  - title: Playing video with OMX Player
