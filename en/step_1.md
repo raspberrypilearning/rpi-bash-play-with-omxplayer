@@ -1,4 +1,4 @@
-### Playing a video with omxplayer
+### Playing a video with OMXPlayer
 
 1. Open a terminal window.
 
