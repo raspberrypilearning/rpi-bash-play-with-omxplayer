@@ -1,6 +1,6 @@
-title: Playing a video with omxplayer
+title: Playing a video with OMXPlayer
 hero_image: images/banner.png
-description: Playing a video on the Raspberry Pi with OMX Player
+description: Playing a video on the Raspberry Pi with OMXPlayer
 original_url:
 theme: cc-prototype
 duration: 1
@@ -9,4 +9,4 @@ copyedit: false
 interests: ""
 technologies: "raspberry pi"
 steps:
-  - title: Playing video with OMX Player
+  - title: Playing video with OMXPlayer
